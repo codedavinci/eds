@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render 1`] = `
+<button
+  style={
+    Object {
+      "backgroundColor": "pink",
+    }
+  }
+>
+  Hello
+</button>
+`;
