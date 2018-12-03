@@ -25,3 +25,5 @@ const wInfoStyle = {
 
 export const wInfo = text =>
   withInfo({ inline: true, source: false, styles: wInfoStyle, text: text })
+
+export const safeRest = ({ style, className, ...props }) => props
